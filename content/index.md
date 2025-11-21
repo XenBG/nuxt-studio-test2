@@ -8,14 +8,14 @@ sitemap:
 
 ::home-feature
 #title
-# Последни новини
+# Последни ноwini 2
 
 #description
 Научете повече за последните събития и новини в сайта на Jump.BG.
 
 #authorLabel
-Автор:
+Автор\:asd
 
 #publishedLabel
-Публикувано на:
+Публикувано на:2100
 ::
