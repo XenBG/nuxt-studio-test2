@@ -1,7 +1,7 @@
 ---
-title: Users
+title: asd
 seo:
-  title: Потребители
+  title: asd
   description: Списък с потребители на платформата.
 sitemap:
   loc: /users
@@ -15,7 +15,7 @@ sitemap:
 Тук можете да намерите информация за всички регистрирани потребители в нашата платформа.
 
 #emailLabel
-Имейл:
+Имейл:123
 
 #phoneLabel
 Телефон:
