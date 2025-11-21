@@ -1,0 +1,14 @@
+@import "tailwindcss";
+@import "@nuxt/ui";
+
+@source "../../**/*.{js,vue,ts}";
+@source "../../**/*.vue";
+
+/* Force light theme */
+:root {
+  color-scheme: light;
+}
+
+html {
+  color-scheme: light;
+}

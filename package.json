@@ -1,0 +1,32 @@
+{
+  "name": "jumpbg-nuxt",
+  "private": true,
+  "type": "module",
+  "author": "Tom Atanasov (Xen)",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@nuxt/devtools": ">=3.1.0",
+    "@nuxt/kit": "^4.2.1",
+    "@types/node": "^24.10.1",
+    "@vueuse/core": "latest",
+    "@vueuse/nuxt": "latest",
+    "nuxt": "^4.2.1",
+    "nuxt-studio": "1.0.0-alpha.2",
+    "vue": "latest",
+    "vue-router": "latest"
+  },
+  "dependencies": {
+    "@nuxt/content": "latest",
+    "@nuxt/ui": "latest",
+    "better-sqlite3": "latest",
+    "browserslist": "^4.28.0",
+    "caniuse-lite": "^1.0.30001756"
+  }
+}
