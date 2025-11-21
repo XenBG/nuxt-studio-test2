@@ -4,7 +4,7 @@ seo:
   title: asd
   description: Списък с потребители на платформата.
 sitemap:
-  loc: /users
+  loc: /asd
 ---
 
 ::users-list
