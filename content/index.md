@@ -8,7 +8,7 @@ sitemap:
 
 ::home-feature
 #title
-# Последни ноwini 2
+# Последни новини
 
 #description
 Научете повече за последните събития и новини в сайта на Jump.BG.
